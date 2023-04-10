@@ -6,10 +6,9 @@ description: A personal blog
 
 # User settings
 username: Josip Bognar
-user_description: I am a technology enthusiast who loves development, support and cybersecurity. I often work on projects for some of the biggest tech companies revolving around Azure, Cybersecurity, Virtualization and much much more.
-user_title: IT Engineer with focus on Cybersecurity
+user_description: I am a technology enthusiast who loves development, support and cybersecurity. As a part of my daily job rutine, I work on resolving complex issues in domain of Level 3 engineering, infrastructure assessment projects utilizing NIST, CIS, MITRE and projects to implement new solutions. There is no point of enumerating each solution or platform I am utilizing, so for any interested partys, please get in touch with me.
+user_title: AI | ML | Automation | Cybersecurity | Big Data | Cloud
 github_username:  Bognar
-
 
 # Google-analytics
 google-analytics:
